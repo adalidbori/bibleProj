@@ -1,0 +1,730 @@
+[
+  {
+    "versiculo": "Así que, hermanos míos amados y deseados, gozo y corona mía, estad así firmes en el Señor, amados.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 1,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Ruego a Evodia y a Síntique, que sean de un mismo sentir en el Señor.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 2,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Asimismo te ruego también a ti, compañero fiel, que ayudes a estas que combatieron juntamente conmigo en el evangelio, con Clemente también y los demás colaboradores míos, cuyos nombres están en el libro de la vida.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 3,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Regocijaos en el Señor siempre. Otra vez digo: ¡Regocijaos!",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 4,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Vuestra gentileza sea conocida de todos los hombres. El Señor está cerca.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 5,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con acción de gracias.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 6,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 7,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Por lo demás, hermanos, todo lo que es verdadero, todo lo honesto, todo lo justo, todo lo puro, todo lo amable, todo lo que es de buen nombre; si hay virtud alguna, si algo digno de alabanza, en esto pensad.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 8,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Lo que aprendisteis y recibisteis y oísteis y visteis en mí, esto haced; y el Dios de paz estará con vosotros.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 9,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "En gran manera me gocé en el Señor de que ya al fin habéis revivido vuestro cuidado de mí; de lo cual también estabais solícitos, pero os faltaba la oportunidad.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 10,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "No lo digo porque tenga escasez, pues he aprendido a contentarme, cualquiera que sea mi situación.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 11,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Sé vivir humildemente, y sé tener abundancia; en todo y por todo estoy enseñado, así para estar saciado como para tener hambre, así para tener abundancia como para padecer necesidad.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 12,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Todo lo puedo en Cristo que me fortalece.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 13,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Sin embargo, bien hicisteis en participar conmigo en mi tribulación.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 14,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Y sabéis también vosotros, oh filipenses, que al principio de la predicación del evangelio, cuando partí de Macedonia, ninguna iglesia participó conmigo en razón de dar y recibir, sino vosotros solos;",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 15,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "pues aun a Tesalónica me enviasteis una y otra vez para mis necesidades.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 16,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "No es que busque dádivas, sino que busco fruto que abunde en vuestra cuenta.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 17,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Pero todo lo he recibido, y tengo abundancia; estoy lleno, habiendo recibido de Epafrodito lo que enviasteis; olor fragante, sacrificio acepto, agradable a Dios.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 18,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Mi Dios, pues, suplirá todo lo que os falta conforme a sus riquezas en gloria en Cristo Jesús.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 19,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Al Dios y Padre nuestro sea gloria por los siglos de los siglos. Amén.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 20,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Saludad a todos los santos en Cristo Jesús. Los hermanos que están conmigo os saludan.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 21,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Todos los santos os saludan, y especialmente los de la casa de César.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 22,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén.",
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "numeroOrden": 23,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Por lo demás, hermanos, gozaos en el Señor. A mí no me es molesto el escribiros las mismas cosas, y para vosotros es seguro.",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 1,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Guardaos de los perros, guardaos de los malos obreros, guardaos de los mutiladores del cuerpo.",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 2,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Porque nosotros somos la circuncisión, los que en espíritu servimos a Dios y nos gloriamos en Cristo Jesús, no teniendo confianza en la carne.",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 3,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Aunque yo tengo también de qué confiar en la carne. Si alguno piensa que tiene de qué confiar en la carne, yo más:",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 4,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "circuncidado al octavo día, del linaje de Israel, de la tribu de Benjamín, hebreo de hebreos; en cuanto a la ley, fariseo;",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 5,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "en cuanto a celo, perseguidor de la iglesia; en cuanto a la justicia que es en la ley, irreprensible.",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 6,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Pero cuantas cosas eran para mí ganancia, las he estimado como pérdida por amor de Cristo.",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 7,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Y ciertamente, aun estimo todas las cosas como pérdida por la excelencia del conocimiento de Cristo Jesús, mi Señor, por amor del cual lo he perdido todo, y lo tengo por basura, para ganar a Cristo,",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 8,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "y ser hallado en él, no teniendo mi propia justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe;",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 9,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "a fin de conocerle, y el poder de su resurrección, y la participación de sus padecimientos, llegando a ser semejante a él en su muerte,",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 10,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "si en alguna manera llegase a la resurrección de entre los muertos.",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 11,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "No que lo haya alcanzado ya, ni que ya sea perfecto; sino que prosigo, por ver si logro asir aquello para lo cual fui también asido por Cristo Jesús.",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 12,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Hermanos, yo mismo no pretendo haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante,",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 13,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús.",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 14,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Así que, todos los que somos perfectos, esto mismo sintamos; y si otra cosa sentís, esto también os lo revelará Dios.",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 15,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Pero en aquello a que hemos llegado, sigamos una misma regla, sintamos una misma cosa.",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 16,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Hermanos, sed imitadores de mí, y mirad a los que así se conducen según el ejemplo que tenéis en nosotros.",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 17,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Porque por ahí andan muchos, de los cuales os dije muchas veces, y aun ahora lo digo llorando, que son enemigos de la cruz de Cristo;",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 18,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "el fin de los cuales será perdición, cuyo dios es el vientre, y cuya gloria es su vergüenza; que solo piensan en lo terrenal.",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 19,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Mas nuestra ciudadanía está en los cielos, de donde también esperamos al Salvador, al Señor Jesucristo;",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 20,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "el cual transformará el cuerpo de la humillación nuestra, para que sea semejante al cuerpo de la gloria suya, por el poder con el cual puede también sujetar a sí mismo todas las cosas.",
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "numeroOrden": 21,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Por tanto, si hay alguna consolación en Cristo, si algún consuelo de amor, si alguna comunión del Espíritu, si algún afecto entrañable, si alguna misericordia,",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 1,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "completad mi gozo, sintiendo lo mismo, teniendo el mismo amor, unánimes, sintiendo una misma cosa.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 2,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Nada hagáis por contienda o por vanagloria; antes bien con humildad, estimando cada uno a los demás como superiores a él mismo;",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 3,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "no mirando cada uno por lo suyo propio, sino cada cual también por lo de los otros.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 4,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús,",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 5,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "el cual, siendo en forma de Dios, no estimó el ser igual a Dios como cosa a que aferrarse,",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 6,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "sino que se despojó a sí mismo, tomando forma de siervo, hecho semejante a los hombres;",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 7,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "y estando en la condición de hombre, se humilló a sí mismo, haciéndose obediente hasta la muerte, y muerte de cruz.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 8,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Por lo cual Dios también le exaltó hasta lo sumo, y le dio un nombre que es sobre todo nombre,",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 9,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "para que en el nombre de Jesús se doble toda rodilla de los que están en los cielos, y en la tierra, y debajo de la tierra;",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 10,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "y toda lengua confiese que Jesucristo es el Señor, para gloria de Dios Padre.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 11,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Por tanto, amados míos, como siempre habéis obedecido, no como en mi presencia solamente, sino mucho más ahora en mi ausencia, ocupaos en vuestra salvación con temor y temblor,",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 12,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "porque Dios es el que en vosotros produce así el querer como el hacer, por su buena voluntad.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 13,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Haced todo sin murmuraciones y contiendas,",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 14,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "para que seáis irreprensibles y sencillos, hijos de Dios sin mancha en medio de una generación maligna y perversa, en medio de la cual resplandecéis como luminares en el mundo;",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 15,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "asidos de la palabra de vida, para que en el día de Cristo yo pueda gloriarme de que no he corrido en vano, ni en vano he trabajado.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 16,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Y aunque sea derramado en libación sobre el sacrificio y servicio de vuestra fe, me gozo y regocijo con todos vosotros.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 17,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Y asimismo gozaos y regocijaos también vosotros conmigo.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 18,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Espero en el Señor Jesús enviaros pronto a Timoteo, para que yo también esté de buen ánimo al saber de vuestro estado;",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 19,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "pues a ninguno tengo del mismo ánimo, y que tan sinceramente se interese por vosotros.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 20,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Porque todos buscan lo suyo propio, no lo que es de Cristo Jesús.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 21,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Pero ya conocéis los méritos de él, que como hijo a padre ha servido conmigo en el evangelio.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 22,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Así que a este espero enviaros, luego que yo vea cómo van mis asuntos;",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 23,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "y confío en el Señor que yo también iré pronto a vosotros.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 24,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Mas tuve por necesario enviaros a Epafrodito, mi hermano y colaborador y compañero de milicia, vuestro mensajero, y ministrador de mis necesidades;",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 25,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "porque él tenía gran deseo de veros a todos vosotros, y gravemente se angustió porque habíais oído que había enfermado.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 26,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Pues en verdad estuvo enfermo, a punto de morir; pero Dios tuvo misericordia de él, y no solamente de él, sino también de mí, para que yo no tuviese tristeza sobre tristeza.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 27,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Así que le envío con mayor solicitud, para que al verle de nuevo, os gocéis, y yo esté con menos tristeza.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 28,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Recibidle, pues, en el Señor, con todo gozo, y tened en estima a los que son como él;",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 29,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "porque por la obra de Cristo estuvo próximo a la muerte, exponiendo su vida para suplir lo que faltaba en vuestro servicio por mí.",
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "numeroOrden": 30,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Pablo y Timoteo, siervos de Jesucristo, a todos los santos en Cristo Jesús que están en Filipos, con los obispos y diáconos:",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 1,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 2,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Doy gracias a mi Dios siempre que me acuerdo de vosotros,",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 3,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "siempre en todas mis oraciones rogando con gozo por todos vosotros,",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 4,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "por vuestra comunión en el evangelio, desde el primer día hasta ahora;",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 5,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "estando persuadido de esto, que el que comenzó en vosotros la buena obra, la perfeccionará hasta el día de Jesucristo;",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 6,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "como me es justo sentir esto de todos vosotros, por cuanto os tengo en el corazón; y en mis prisiones, y en la defensa y confirmación del evangelio, todos vosotros sois participantes conmigo de la gracia.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 7,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Porque Dios me es testigo de cómo os amo a todos vosotros con el entrañable amor de Jesucristo.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 8,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Y esto pido en oración, que vuestro amor abunde aún más y más en ciencia y en todo conocimiento,",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 9,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "para que aprobéis lo mejor, a fin de que seáis sinceros e irreprensibles para el día de Cristo,",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 10,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "llenos de frutos de justicia que son por medio de Jesucristo, para gloria y alabanza de Dios.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 11,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Quiero que sepáis, hermanos, que las cosas que me han sucedido, han redundado más bien para el progreso del evangelio,",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 12,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "de tal manera que mis prisiones se han hecho patentes en Cristo en todo el pretorio, y a todos los demás.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 13,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Y la mayoría de los hermanos, cobrando ánimo en el Señor con mis prisiones, se atreven mucho más a hablar la palabra sin temor.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 14,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Algunos, a la verdad, predican a Cristo por envidia y contienda; pero otros de buena voluntad.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 15,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Los unos anuncian a Cristo por contención, no sinceramente, pensando añadir aflicción a mis prisiones;",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 16,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "pero los otros por amor, sabiendo que estoy puesto para la defensa del evangelio.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 17,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "¿Qué, pues? Que no obstante, de todas maneras, o por pretexto o por verdad, Cristo es anunciado; y en esto me gozo, y me gozaré aún.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 18,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Porque sé que por vuestra oración y la suministración del Espíritu de Jesucristo, esto resultará en mi liberación,",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 19,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "conforme a mi anhelo y esperanza de que en nada seré avergonzado; antes bien con toda confianza, como siempre, ahora también será magnificado Cristo en mi cuerpo, o por vida o por muerte.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 20,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Porque para mí el vivir es Cristo, y el morir es ganancia.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 21,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Mas si el vivir en la carne resulta para mí en beneficio de la obra, no sé entonces qué escoger.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 22,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Porque de ambas cosas estoy puesto en estrecho, teniendo deseo de partir y estar con Cristo, lo cual es muchísimo mejor;",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 23,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "pero quedar en la carne es más necesario por causa de vosotros.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 24,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Y confiado en esto, sé que quedaré, que aún permaneceré con todos vosotros, para vuestro provecho y gozo de la fe,",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 25,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "para que abunde vuestra gloria de mí en Cristo Jesús por mi presencia otra vez entre vosotros.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 26,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Solamente que os comportéis como es digno del evangelio de Cristo, para que o sea que vaya a veros, o que esté ausente, oiga de vosotros que estáis firmes en un mismo espíritu, combatiendo unánimes por la fe del evangelio,",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 27,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "y en nada intimidados por los que se oponen, que para ellos ciertamente es indicio de perdición, mas para vosotros de salvación; y esto de Dios.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 28,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "Porque a vosotros os es concedido a causa de Cristo, no solo que creáis en él, sino también que padezcáis por él,",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 29,
+    "capituloid": "PHP"
+  },
+  {
+    "versiculo": "teniendo el mismo conflicto que habéis visto en mí, y ahora oís que hay en mí.",
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "numeroOrden": 30,
+    "capituloid": "PHP"
+  }
+]
