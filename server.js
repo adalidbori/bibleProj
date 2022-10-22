@@ -5,10 +5,8 @@ const server = http.createServer(app);
 const logger = require('morgan');
 const cors = require('cors');
 
-// const questions  = require('./routes/questionsRoutes');
-// const answer = require('./routes/answerRoutes');
-// const preguntasasociadas = require('./routes/preguntasasociadasRoutes');
-// const consultasRoutes = require('./routes/consultasRoutes');
+const booksRoute  = require('./routes/booksRoute');
+const versosRoute = require('./routes/versiculosRoute');
 
 
 const port = process.env.PORT || 3000;
@@ -26,10 +24,8 @@ app.disable('x-powered-by');
 app.set('port', port);
 
 
-// questions(app);
-// answer(app);
-// preguntasasociadas(app);
-// consultasRoutes(app);
+booksRoute(app);
+versosRoute(app);
 
 
 server.listen(3000, function(){

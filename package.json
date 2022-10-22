@@ -1,11 +1,28 @@
 {
   "name": "bibliajson",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adalidbori/bibleProj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adalidbori/bibleProj/issues"
+  },
+  "homepage": "https://github.com/adalidbori/bibleProj#readme",
+  "description": "",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "json-query": "^2.2.2",
+    "morgan": "^1.10.0",
+    "pg-promise": "^10.12.1"
+  }
 }
